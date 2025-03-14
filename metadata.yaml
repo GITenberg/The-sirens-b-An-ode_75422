@@ -1,0 +1,37 @@
+_repo: The-sirens-b-An-ode_75422
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Binyon, Laurence
+    alias: Binyon, Robert Laurence
+    birthdate: 1869
+    deathdate: 1943
+    gutenberg_agent_id: '8532'
+    url: http://www.gutenberg.org/2009/agents/8532
+    wikipedia: https://en.wikipedia.org/wiki/Laurence_Binyon
+description: '"This poem was printed by hand by Richard and Elinor Lambert at the
+  Stanton press and issued by them in 1924 in a limited edition. It has been revised
+  for the present edition."--Note, p. vii.'
+gutenberg_issued: '2025-02-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75422'
+  lccn: a26000487
+language: en
+pgterms:marc904: https://hdl.handle.net/2027/uc1.794299
+pgterms:marc905: 20230201010943binyon
+pgterms:marc906: '1925'
+pgterms:marc907: GB
+production_note: Bob Taylor, Tim Lindell and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This book was produced from images made available by the
+  HathiTrust Digital Library.)
+publication_note: '  $aLondon :$bMacmillan and Co., $c1925.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English poetry -- 20th century'
+- !lcc 'PR'
+- GITenberg
+title: 'The sirens : $b An ode'
+url: http://www.gutenberg.org/ebooks/75422
