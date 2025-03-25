@@ -1,5 +1,8 @@
 _repo: The-sirens-b-An-ode_75422
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75422-h/images/cover.jpg
 creator:
   author:
     agent_name: Binyon, Laurence
@@ -12,6 +15,8 @@ creator:
 description: '"This poem was printed by hand by Richard and Elinor Lambert at the
   Stanton press and issued by them in 1924 in a limited edition. It has been revised
   for the present edition."--Note, p. vii.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75422#The-sirens-b-An-ode
 gutenberg_issued: '2025-02-19'
 gutenberg_type: Text
 identifiers:
